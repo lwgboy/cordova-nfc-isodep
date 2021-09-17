@@ -1,0 +1,14 @@
+{
+    "name" : "cordova-nfc-isodep",
+    "version" : "1.0",
+    "description" : "write to nfc tag type isodep",
+    "cordova" : {
+        "id" : "cordova-nfc-isodep",
+        "platforms" : ["ios"]
+    },
+    "keywords" : [
+        "cordova",
+        "nfc",
+    ],
+    "author" : "edy syuryawan s",
+}
